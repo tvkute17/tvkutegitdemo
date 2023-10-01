@@ -1,2 +1,3 @@
 # tvkutegitdemo
-This is my git demo
+This is my git demo repository
+
